@@ -1,0 +1,120 @@
+Label: Serious Chocolate: Easy Chocolate Pie Crust Recipe, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_3dc6d568c66a38e2f86d24a055c6de6d
+
+Label: Iced Chocolate, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_576e39853f05a74446ef8d06c44c45ec
+
+Label: Chocolate Almond Turrón, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_ae0d69e610980422e004639037937364
+
+Label: Chocolate shards, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_fd726a666e6a4be7a8133e6f0d3016af
+
+Label: Best Chocolate Pudding, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_764d6feaf541a194d82d0add2dc877f5
+
+Label: INSTANT CHOCOLATE MOUSSE (CHOCOLATE CHANTILLY) recipes, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_f8f414a5fb3a047174824160a86a0186
+
+Label: Easiest Chocolate Sauce, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_87991971d8e24f30438c7a0afcf0f325
+
+Label: Chocolate Cream, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b3d96f58f5294893b52e4293501baf05
+
+Label: Tofu Chocolate Mousse, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_caa558c4d438a4ab2327f7d5e9fb6913
+
+Label: Chocolate Sidecar, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a15f259493ea48409d4ed1a419444a8b
+
+Label: Roasted Cherry Tomatoes, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_5831ed782d73f56e9437e28feff625bf
+
+Label: Cherry vodka, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_f5c3134ba4533fa288800cb1bbd566fe
+
+Label: Cherry Beer, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b4f33a96fc464912b2469bcb85e5575c
+
+Label: Cherry Oh Baby, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_d69d411d8950401dbd6149a7e394cfeb
+
+Label: Cherry Sangria Recipe, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_de91ece2ac861692451883307d6fbaa6
+
+Label: Cherry Shandy, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_7d3ad79b522a42f1bf43296b09c398e8
+
+Label: Cherry Tomato Confit, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_c943704044e3be351f3e34d1cb38304f
+
+Label: Cherry Bellinis, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_fdad9c03bc5449bf9dfaf810f1707370
+
+Label: Cherry bakewell tart, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_464ac76bcb2d4b378f02a2941ea31f0d
+
+Label: Cherry Smash, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_24ddc8cebb3943306daaa988020bcf17
+
+Label: Serious Chocolate: Easy Chocolate Pie Crust Recipe, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_3dc6d568c66a38e2f86d24a055c6de6d
+
+Label: Iced Chocolate, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_576e39853f05a74446ef8d06c44c45ec
+
+Label: Chocolate Almond Turrón, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_ae0d69e610980422e004639037937364
+
+Label: Chocolate shards, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_fd726a666e6a4be7a8133e6f0d3016af
+
+Label: Best Chocolate Pudding, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_764d6feaf541a194d82d0add2dc877f5
+
+Label: INSTANT CHOCOLATE MOUSSE (CHOCOLATE CHANTILLY) recipes, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_f8f414a5fb3a047174824160a86a0186
+
+Label: Easiest Chocolate Sauce, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_87991971d8e24f30438c7a0afcf0f325
+
+Label: Chocolate Cream, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b3d96f58f5294893b52e4293501baf05
+
+Label: Tofu Chocolate Mousse, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_caa558c4d438a4ab2327f7d5e9fb6913
+
+Label: Chocolate Sidecar, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a15f259493ea48409d4ed1a419444a8b
+
+Label: Serious Chocolate: Easy Chocolate Pie Crust Recipe, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_3dc6d568c66a38e2f86d24a055c6de6d
+
+Label: Iced Chocolate, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_576e39853f05a74446ef8d06c44c45ec
+
+Label: Chocolate Almond Turrón, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_ae0d69e610980422e004639037937364
+
+Label: Chocolate shards, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_fd726a666e6a4be7a8133e6f0d3016af
+
+Label: Best Chocolate Pudding, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_764d6feaf541a194d82d0add2dc877f5
+
+Label: INSTANT CHOCOLATE MOUSSE (CHOCOLATE CHANTILLY) recipes, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_f8f414a5fb3a047174824160a86a0186
+
+Label: Easiest Chocolate Sauce, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_87991971d8e24f30438c7a0afcf0f325
+
+Label: Chocolate Cream, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_b3d96f58f5294893b52e4293501baf05
+
+Label: Tofu Chocolate Mousse, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_caa558c4d438a4ab2327f7d5e9fb6913
+
+Label: Chocolate Sidecar, 
+URI: http://www.edamam.com/ontologies/edamam.owl#recipe_a15f259493ea48409d4ed1a419444a8b
+
